@@ -22,7 +22,12 @@ localStorage.setItem(key, value);
 localStorage.getItem(key);
 ```
 - **REMOVE ITEM**
+```javascript
 localStorage.removeItem(key);
+```
+
+
+
 
 # OBSERVATIONS
 - **PWA** **P**rogressive **W**eb **A**pps
